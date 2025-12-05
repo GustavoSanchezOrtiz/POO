@@ -1,8 +1,4 @@
-"""
-1.- Implementar el MVC
-2.- Paradigma POO
-3.- App de escritorio con interfaz gráfica
-"""
+
 from tkinter import *
 from view import view1
 
